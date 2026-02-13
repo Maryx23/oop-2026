@@ -1,4 +1,4 @@
-package Activity.Week2;
+package Activity1.Week2;
 
 public class Book  {
     String title;

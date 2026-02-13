@@ -1,4 +1,4 @@
-package Activity.Week2;
+package Activity1.Week2;
 public class Main  {
     public static void main(String[] args) {
         Book book1 = new Book();
@@ -17,7 +17,7 @@ public class Main  {
 
         book2.printBookInfo();
 
-          Book book2 = new Book();
+          Book book3 = new Book();
         book2.title = "diary of a wimpy kid";
         book2.author = "Jeff Kinney";
         book2.isbn = "014330383X";
